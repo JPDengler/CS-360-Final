@@ -25,3 +25,7 @@ One of the primary challenges during development was integrating the SMS notific
 
 ### Success and Knowledge Demonstration
 I was particularly successful in implementing the app's data management and user interaction components. Although the current version of the app includes create, read, and delete (CRD) functionalities, I plan to implement the edit function in the future to complete the full CRUD capability. The seamless goal-setting feature and the effective use of notifications highlight my ability to create user-centered applications that meet real-world needs.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/632445d1-26e5-4284-8a6f-7a72ac9ebc2f" alt="Screenshot">
+</div>
